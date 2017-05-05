@@ -1,4 +1,4 @@
-package Algorithms.Dijkstra;
+package Dijkstra;
 
 /**
  * Created by Joywalker on 4/29/2017.

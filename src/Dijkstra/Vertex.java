@@ -1,4 +1,4 @@
-package Algorithms.Dijkstra;
+package Dijkstra;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
